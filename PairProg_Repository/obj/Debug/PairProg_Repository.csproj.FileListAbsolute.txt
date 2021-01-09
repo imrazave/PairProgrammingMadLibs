@@ -1,0 +1,6 @@
+C:\Users\farid\Desktop\ElevenFiftyProjects\PairProgrammingMadLibs\PairProg_Repository\bin\Debug\PairProg_Repository.dll
+C:\Users\farid\Desktop\ElevenFiftyProjects\PairProgrammingMadLibs\PairProg_Repository\bin\Debug\PairProg_Repository.pdb
+C:\Users\farid\Desktop\ElevenFiftyProjects\PairProgrammingMadLibs\PairProg_Repository\obj\Debug\PairProg_Repository.csprojAssemblyReference.cache
+C:\Users\farid\Desktop\ElevenFiftyProjects\PairProgrammingMadLibs\PairProg_Repository\obj\Debug\PairProg_Repository.csproj.CoreCompileInputs.cache
+C:\Users\farid\Desktop\ElevenFiftyProjects\PairProgrammingMadLibs\PairProg_Repository\obj\Debug\PairProg_Repository.dll
+C:\Users\farid\Desktop\ElevenFiftyProjects\PairProgrammingMadLibs\PairProg_Repository\obj\Debug\PairProg_Repository.pdb
